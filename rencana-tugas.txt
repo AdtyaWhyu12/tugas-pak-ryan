@@ -5,3 +5,4 @@ Rencana Tugas
 -Struktur data dasar
 -Menyelesaikan tugas PIC
 -Php framework
+-Python

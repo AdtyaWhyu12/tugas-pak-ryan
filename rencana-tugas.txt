@@ -1,5 +1,6 @@
 Rencana Tugas
 
 -Menyelesaikan tugas PCC
+-Struktur data dasar
 -Menyelesaikan tugas PIC
 -Php framework
